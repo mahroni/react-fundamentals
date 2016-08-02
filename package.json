@@ -1,0 +1,22 @@
+{
+  "name": "es6-react-fundamentals",
+  "version": "1.0.0",
+  "description": "learn es6 react",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "es6",
+    "react",
+    "fundamentals"
+  ],
+  "author": "mahroni",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "webpack": "^1.13.1"
+  }
+}
